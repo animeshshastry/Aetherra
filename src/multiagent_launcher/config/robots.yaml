@@ -1,0 +1,11 @@
+# robots.yaml
+# 
+# Parameters: 
+# name: unique robot name 
+-
+  name:             alfa
+-
+  name:             bravo
+-
+  name:             charlie
+

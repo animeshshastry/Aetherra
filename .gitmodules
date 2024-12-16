@@ -1,0 +1,8 @@
+[submodule "src/open_vins"]
+	path = src/open_vins
+	url = git@gitlab.sitcore.net:aimm/ros2/open_vins.git
+	branch = animesh/devel
+[submodule "src/rosa"]
+	path = src/rosa
+	url = git@gitlab.sitcore.net:aimm/rosa.git
+	branch = uav_ugv_agent
